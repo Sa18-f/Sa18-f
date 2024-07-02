@@ -1,12 +1,12 @@
 <p><img src="https://i.ibb.co/cbtrxLf/github-header-image-1.png" alt="sa18-f" /></p>
 
-- 🔭 I’m currently working on **MedShop**
+- 🔭 I’m currently working on **MedShop** (https://medi-nest.web.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **MedShop**
+- 👯 I’m looking to collaborate on **MedShop** (https://medi-nest.web.app/)
 
-- 🤝 I’m looking for help with **MedShop**
+- 🤝 I’m looking for help with **MedShop** (https://medi-nest.web.app/)
 
 - 💬 Ask me about **React,Javasript**
 
